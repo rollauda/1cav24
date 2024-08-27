@@ -3,7 +3,6 @@ title: Projet final
 layout: default
 nav_order: 15
 has_children: true
-has_toc: false
 published: true
 ---
 ## Projet de création audiovisuelle

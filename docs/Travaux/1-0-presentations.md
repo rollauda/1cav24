@@ -2,7 +2,6 @@
 layout: default
 title: Présentations de films
 has_children: false
-has_toc: false
 parent: Travaux
 nav_order: 1
 published: true

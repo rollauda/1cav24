@@ -4,7 +4,6 @@ layout: default
 nav_order: 3
 parent: Ressources
 has_children: true
-has_toc: false
 published: true
 ---
 

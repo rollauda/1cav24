@@ -5,7 +5,6 @@ has_children: true
 parent: Travaux
 nav_order: 2
 published: true
-has_toc: false
 ---
 ## Projet annuel de court-métrage
 
