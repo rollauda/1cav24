@@ -3,6 +3,7 @@ layout: default
 title: Le synopsis
 parent: Projet final
 has_children: true
+has_toc: false
 nav_order: 2
 published: true
 ---

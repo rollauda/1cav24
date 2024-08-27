@@ -3,8 +3,9 @@ layout: default
 title: La note d'intention
 parent: Projet final
 has_children: true
+has_toc: false
 nav_order: 3
-published: true
+published: false
 ---
 ## Ecrire sa note d'intention
 

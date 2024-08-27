@@ -19,7 +19,7 @@ published: true
 {:toc}
 </details>
 
-### Fiche de présentation de l'année de Première Spécialité CAV
+### Fiche de présentation
  
 {% pdf "../../assets/pdf/presentation/presentation-cav.pdf" width=80% height=650px no_link %}
 

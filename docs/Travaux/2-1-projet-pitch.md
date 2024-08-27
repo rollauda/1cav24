@@ -11,9 +11,6 @@ published: true
 {: .highlight }
 >En vue du projet final de cette année, chaque élève imaginera une projet de court-métrage qu'il présentera à la classe.
 
-{: .nouveau-title }
-> - **Thème imposé : le portrait ou l'auto-portrait.**
-
 {: .attention-title }
 >- Il peut s'agir d'une fiction, d'un documentaire, d'un documenteur, d'un film en images réelles ou d'animation, et tout autre choix (bande-annonce, mashup, fausse publicité, fan-fiction, etc.).
 >

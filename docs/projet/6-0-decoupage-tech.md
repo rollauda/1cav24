@@ -3,8 +3,9 @@ layout: default
 title: Le découpage technique
 parent: Projet final
 has_children: true
+has_toc: false
 nav_order: 6
-published: true
+published: false
 ---
 ## Faire le découpage technique
 {: .no_toc }
