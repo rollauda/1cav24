@@ -1,9 +1,7 @@
 ---
 title: Présentation de l'année
 layout: default
-permalink: /docs/Présentation/L0.html
 nav_order: 3
-permalink: /docs/Présentation
 published: true
 ---
 ## Présentation de l'année de Première Spécialité CAV
