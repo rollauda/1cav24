@@ -1,11 +1,10 @@
 title: CAV Conda 1eres
 description: Documents des cours de Première Spécialité CAV de R. Auda, 2024 - 2025
 theme: just-the-docs
-baseurl: "/1cav24" # the subpath of your site, e.g. /blog
-url: https://rollauda.github.io/
+url: https:/cav1profauda.fr/
 repository: rollauda/1cav24 # for github-metadata
 aux_links:
-  Accueil-Auda: https://rollauda.github.io
+  Accueil-Auda: https://profauda.fr
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
