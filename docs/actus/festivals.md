@@ -49,7 +49,7 @@ published: true
 > Vous pouvez visionner les archives des années précédentes.
 
 ## My french film festival
-[site du festival](https://www.myfrenchfilmfestival.com/)](https://www.myfrenchfilmfestival.com/){:target="_blank" }   
+[site du festival](https://www.myfrenchfilmfestival.com/){:target="_blank" }   
 
 **Janvier 2025**   
 
