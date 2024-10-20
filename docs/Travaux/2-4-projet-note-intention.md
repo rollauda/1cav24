@@ -9,7 +9,8 @@ published: true
 ## Ecrire la note d'intention
 
 {: .highlight }
->- Travail préparatoire en groupe à faire en classe : préparer le brouillon de la note d'intention qu'il faudra rendre et qui sera évaluée. Suivre la structure donnée dans la fiche n°7 du dossier "L'écriture d'un film".
+> Travail préparatoire en groupe à faire en classe : préparer le brouillon de la note d'intention qu'il faudra rendre et qui sera évaluée.   
+>Suivre la structure donnée dans la fiche n°7 du dossier "L'écriture d'un film".
 
 {: .note-title }
 >- Faire ensuite au propre la note d'intention et la rendre sur un google doc.
@@ -22,4 +23,4 @@ published: true
 3. La genèse du projet : /2
 4. Le but et l'impact du projet : /2
 5. Les choix narratifs, artistiques et de mise en scène : /2
-+ présentation de la note (mise en page, ajout d'illustrations): /1
+6. Présentation de la note (mise en page, ajout d'illustrations): /1
