@@ -13,7 +13,7 @@ published: true
 >Suivre la structure donnée dans la fiche n°7 du dossier "L'écriture d'un film".
 
 {: .note-title }
->- Faire ensuite au propre la note d'intention et la rendre sur un google doc.
+>- Faire ensuite au propre la note d'intention et la rendre sur un google doc partagé ou un fichier pdf envoyé par mail.
 
 → Voir dans le dossier "L'écriture d'un film" la fiche n°7 : La note d'intention + sur le site les  [exemples de notes d'intention](../../docs/projet/3-0-note-intention.html)
 
