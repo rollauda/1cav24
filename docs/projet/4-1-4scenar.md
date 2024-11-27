@@ -7,7 +7,7 @@ grand_parent: Projet final
 nav_order: 1
 published: true
 ---
-## Exemples de scénario : séqiuence introductive de "L'étourdissement"
+## Exemples de scénario : séquence introductive de "L'étourdissement"
 {: .no_toc }
 
 <details open markdown="block">
